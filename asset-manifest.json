@@ -1,25 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.f26325c2.css",
-    "main.js": "/static/js/main.088f8b49.js",
+    "main.css": "/static/css/main.d4d2e75c.css",
+    "main.js": "/static/js/main.557d623b.js",
     "static/media/Get in touch-amico.png": "/static/media/Get in touch-amico.85f7052f5447d318ceff.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/me.png": "/static/media/me.2352b5585920c1df6da8.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/ecommerce.png": "/static/media/ecommerce.8a5b9e788b24c49b9c31.png",
     "static/media/olx-cards.JPG": "/static/media/olx-cards.14b90dd8ec13615f8a98.JPG",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
     "static/media/turo-screenshot.JPG": "/static/media/turo-screenshot.cc5fdd7256037aa8bdae.JPG",
     "static/media/instagram-clone.JPG": "/static/media/instagram-clone.69f8893199682bb808a5.JPG",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.aee0f771fbfc1e7b8fa8.png",
     "static/media/flip-card-game.JPG": "/static/media/flip-card-game.919377bf4e0c5d8420e1.JPG",
     "static/media/basic-todo.JPG": "/static/media/basic-todo.4864234c0a36bba642a0.JPG",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
     "static/media/stopwatch.JPG": "/static/media/stopwatch.70aacce7dce9aca73143.JPG",
     "static/media/download.png": "/static/media/download.a3169b8732dd5fe3e936.png",
     "static/media/dark-digital-clock.JPG": "/static/media/dark-digital-clock.40aca4b1323299904a21.JPG",
+    "static/media/Precious.ttf": "/static/media/Precious.265572f50024317dee95.ttf",
+    "static/media/html-logo.png": "/static/media/html-logo.411749f8c1cef1e23216.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
     "static/media/reactjs.png": "/static/media/reactjs.3d3d8a9a7d22a9627c1e.png",
-    "static/media/avatar.5852f40f.svg": "/static/media/avatar.5852f40f.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/index.html",
-    "main.f26325c2.css.map": "/static/css/main.f26325c2.css.map",
-    "main.088f8b49.js.map": "/static/js/main.088f8b49.js.map"
+    "main.d4d2e75c.css.map": "/static/css/main.d4d2e75c.css.map",
+    "main.557d623b.js.map": "/static/js/main.557d623b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f26325c2.css",
-    "static/js/main.088f8b49.js"
+    "static/css/main.d4d2e75c.css",
+    "static/js/main.557d623b.js"
   ]
 }
