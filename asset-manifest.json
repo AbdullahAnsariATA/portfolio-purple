@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.d4d2e75c.css",
-    "main.js": "/static/js/main.557d623b.js",
+    "main.js": "/static/js/main.b8b840dd.js",
     "static/media/Get in touch-amico.png": "/static/media/Get in touch-amico.85f7052f5447d318ceff.png",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/me.png": "/static/media/me.2352b5585920c1df6da8.png",
+    "static/media/wordpress-logo.png": "/static/media/wordpress-logo.3227a80a75f67abcafd5.png",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/ecommerce.png": "/static/media/ecommerce.8a5b9e788b24c49b9c31.png",
     "static/media/olx-cards.JPG": "/static/media/olx-cards.14b90dd8ec13615f8a98.JPG",
@@ -16,6 +17,7 @@
     "static/media/flip-card-game.JPG": "/static/media/flip-card-game.919377bf4e0c5d8420e1.JPG",
     "static/media/basic-todo.JPG": "/static/media/basic-todo.4864234c0a36bba642a0.JPG",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/github-logo.png": "/static/media/github-logo.5858be4d6f5874488831.png",
     "static/media/stopwatch.JPG": "/static/media/stopwatch.70aacce7dce9aca73143.JPG",
     "static/media/download.png": "/static/media/download.a3169b8732dd5fe3e936.png",
     "static/media/dark-digital-clock.JPG": "/static/media/dark-digital-clock.40aca4b1323299904a21.JPG",
@@ -27,10 +29,10 @@
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/index.html",
     "main.d4d2e75c.css.map": "/static/css/main.d4d2e75c.css.map",
-    "main.557d623b.js.map": "/static/js/main.557d623b.js.map"
+    "main.b8b840dd.js.map": "/static/js/main.b8b840dd.js.map"
   },
   "entrypoints": [
     "static/css/main.d4d2e75c.css",
-    "static/js/main.557d623b.js"
+    "static/js/main.b8b840dd.js"
   ]
 }
