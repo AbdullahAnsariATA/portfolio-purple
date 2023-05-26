@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4d2e75c.css",
-    "main.js": "/static/js/main.4f29e76a.js",
+    "main.css": "/static/css/main.15a40bf9.css",
+    "main.js": "/static/js/main.85d1bd18.js",
+    "static/media/background-video.mp4": "/static/media/background-video.21de0a1316bf13fef248.mp4",
     "static/media/programming-blog-wordpress.png": "/static/media/programming-blog-wordpress.2aa2ebebb672a2b1f07c.png",
     "static/media/Get in touch-amico.png": "/static/media/Get in touch-amico.85f7052f5447d318ceff.png",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
@@ -20,7 +21,6 @@
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
     "static/media/github-logo.png": "/static/media/github-logo.5858be4d6f5874488831.png",
     "static/media/stopwatch.JPG": "/static/media/stopwatch.70aacce7dce9aca73143.JPG",
-    "static/media/download.png": "/static/media/download.a3169b8732dd5fe3e936.png",
     "static/media/Precious.ttf": "/static/media/Precious.265572f50024317dee95.ttf",
     "static/media/html-logo.png": "/static/media/html-logo.411749f8c1cef1e23216.png",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
@@ -28,11 +28,11 @@
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/index.html",
-    "main.d4d2e75c.css.map": "/static/css/main.d4d2e75c.css.map",
-    "main.4f29e76a.js.map": "/static/js/main.4f29e76a.js.map"
+    "main.15a40bf9.css.map": "/static/css/main.15a40bf9.css.map",
+    "main.85d1bd18.js.map": "/static/js/main.85d1bd18.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4d2e75c.css",
-    "static/js/main.4f29e76a.js"
+    "static/css/main.15a40bf9.css",
+    "static/js/main.85d1bd18.js"
   ]
 }
