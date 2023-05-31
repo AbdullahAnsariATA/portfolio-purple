@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.0218f367.css",
-    "main.js": "/static/js/main.f5c435d2.js",
+    "main.css": "/static/css/main.1367111c.css",
+    "main.js": "/static/js/main.a4244eb3.js",
     "static/media/background-video.mp4": "/static/media/background-video.5403556bb7bc30aa772d.mp4",
     "static/media/programming-blog-wordpress.png": "/static/media/programming-blog-wordpress.2aa2ebebb672a2b1f07c.png",
+    "static/media/foodwagon-screenshot.png": "/static/media/foodwagon-screenshot.a1edc3ac2de46ccbdfb4.png",
+    "static/media/clickr-screenshot.png": "/static/media/clickr-screenshot.e61e7d9f751ccbffd8ea.png",
     "static/media/Get in touch-amico.png": "/static/media/Get in touch-amico.85f7052f5447d318ceff.png",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/Resume-AbdullahAnsari.pdf": "/static/media/Resume-AbdullahAnsari.d155a50901f7137c73a5.pdf",
     "static/media/me.png": "/static/media/me.2352b5585920c1df6da8.png",
     "static/media/wordpress-logo.png": "/static/media/wordpress-logo.3227a80a75f67abcafd5.png",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -16,11 +19,12 @@
     "static/media/instagram-clone.JPG": "/static/media/instagram-clone.69f8893199682bb808a5.JPG",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.aee0f771fbfc1e7b8fa8.png",
+    "static/media/basic-todo.png": "/static/media/basic-todo.055498933cc13079c5a4.png",
     "static/media/flip-card-game.JPG": "/static/media/flip-card-game.919377bf4e0c5d8420e1.JPG",
-    "static/media/basic-todo.JPG": "/static/media/basic-todo.4864234c0a36bba642a0.JPG",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
     "static/media/github-logo.png": "/static/media/github-logo.5858be4d6f5874488831.png",
     "static/media/stopwatch.JPG": "/static/media/stopwatch.70aacce7dce9aca73143.JPG",
+    "static/media/dark-digital-clock.JPG": "/static/media/dark-digital-clock.40aca4b1323299904a21.JPG",
     "static/media/Precious.ttf": "/static/media/Precious.265572f50024317dee95.ttf",
     "static/media/html-logo.png": "/static/media/html-logo.411749f8c1cef1e23216.png",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
@@ -28,11 +32,11 @@
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/index.html",
-    "main.0218f367.css.map": "/static/css/main.0218f367.css.map",
-    "main.f5c435d2.js.map": "/static/js/main.f5c435d2.js.map"
+    "main.1367111c.css.map": "/static/css/main.1367111c.css.map",
+    "main.a4244eb3.js.map": "/static/js/main.a4244eb3.js.map"
   },
   "entrypoints": [
-    "static/css/main.0218f367.css",
-    "static/js/main.f5c435d2.js"
+    "static/css/main.1367111c.css",
+    "static/js/main.a4244eb3.js"
   ]
 }
