@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1367111c.css",
-    "main.js": "/static/js/main.a4244eb3.js",
+    "main.css": "/static/css/main.8826d373.css",
+    "main.js": "/static/js/main.36426184.js",
     "static/media/background-video.mp4": "/static/media/background-video.5403556bb7bc30aa772d.mp4",
     "static/media/programming-blog-wordpress.png": "/static/media/programming-blog-wordpress.2aa2ebebb672a2b1f07c.png",
     "static/media/foodwagon-screenshot.png": "/static/media/foodwagon-screenshot.a1edc3ac2de46ccbdfb4.png",
@@ -32,11 +32,11 @@
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/index.html",
-    "main.1367111c.css.map": "/static/css/main.1367111c.css.map",
-    "main.a4244eb3.js.map": "/static/js/main.a4244eb3.js.map"
+    "main.8826d373.css.map": "/static/css/main.8826d373.css.map",
+    "main.36426184.js.map": "/static/js/main.36426184.js.map"
   },
   "entrypoints": [
-    "static/css/main.1367111c.css",
-    "static/js/main.a4244eb3.js"
+    "static/css/main.8826d373.css",
+    "static/js/main.36426184.js"
   ]
 }
